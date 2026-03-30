@@ -46,7 +46,7 @@ fi
 # ─────────────────────────────────────────
 echo ""
 echo -e "${BOLD}${GREEN}╔══════════════════════════════════════╗${NC}"
-echo -e "${BOLD}${GREEN}║     .NET Project Generator v2.0      ║${NC}"
+echo -e "${BOLD}${GREEN}║     .NET Project Creator v2.0        ║${NC}"
 echo -e "${BOLD}${GREEN}╚══════════════════════════════════════╝${NC}"
 echo ""
 
