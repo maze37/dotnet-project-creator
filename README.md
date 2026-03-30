@@ -139,9 +139,6 @@ Web            → Application, Infrastructure
 
 ## 📝 Changelog
 
-### v2.1
-- Исправлены зависимости в пресете Full + CQRS — `Web → Infrastructure` возвращён, схема соответствует реальной архитектуре
-
 ### v2.0
 - Добавлены 4 пресета: Domain Only, Minimal API, Standard, Full + CQRS
 - Прогресс-бар с полоской и счётчиком шагов
